@@ -1,0 +1,28 @@
+{
+  "name": "clickshift-tradesafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node launch-detector.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "🚀 The world's first platform combining real-time launch detection with predictive market analysis.",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "dotenv": "^16.6.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "ws": "^8.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clickshift-Founder/Alpha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Clickshift-Founder/Alpha/issues"
+  },
+  "homepage": "https://github.com/Clickshift-Founder/Alpha#readme"
+}
